@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *  _putchar - convert the integer to its corresponding ASCII character
- *  print_most_numbers - prints the numbers from 0 to 9 except for 2 and 4.
+ * print_most_numbers - prints the numbers from 0 to 9 except for 2 and 4.
+ * _putchar - convert the integer to its corresponding ASCII character.
  */
 void print_most_numbers(void)
 {
