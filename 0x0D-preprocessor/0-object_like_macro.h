@@ -9,4 +9,4 @@
 
 #define SIZE 1024 /* Abbreviation for 1024 */
 
-#endif 
+#endif
