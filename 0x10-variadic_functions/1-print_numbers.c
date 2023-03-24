@@ -1,6 +1,6 @@
 #include <stdarg.h>
 #include <stdio.h>
-#include "main.h"
+#include "variadic_functions.h"
 
 /**
  * print_numbers - prints a series of numbers
